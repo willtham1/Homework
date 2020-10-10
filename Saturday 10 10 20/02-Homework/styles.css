@@ -1,0 +1,13 @@
+body {
+    background: gray;
+}
+
+/* Nav Details */
+
+.mynav {
+    background-color: #FFF !important; 
+}
+
+.mynav a:hover {
+    border-bottom: 2px solid black;
+}
